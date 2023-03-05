@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/course-tech-interw/static/css/main.930e7821.css",
+    "main.js": "/course-tech-interw/static/js/main.ba184327.js",
+    "static/media/picture2.png": "/course-tech-interw/static/media/picture2.86562350dcaa714a1442.png",
+    "static/media/Boy.png": "/course-tech-interw/static/media/Boy.bdf7fb55e494ab8b6f22.png",
+    "static/media/Vector.svg": "/course-tech-interw/static/media/Vector.e917114d7945c04c85a8946a331d28b6.svg",
+    "index.html": "/course-tech-interw/index.html",
+    "main.930e7821.css.map": "/course-tech-interw/static/css/main.930e7821.css.map",
+    "main.ba184327.js.map": "/course-tech-interw/static/js/main.ba184327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.930e7821.css",
+    "static/js/main.ba184327.js"
+  ]
+}
